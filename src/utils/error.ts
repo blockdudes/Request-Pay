@@ -1,0 +1,1 @@
+export const ERROR_WALLET_IS_NOT_INSTALLED = "MetaMask is not installed! Please install it to continue.";
